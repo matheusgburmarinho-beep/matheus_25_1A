@@ -4,4 +4,9 @@ body{
 }
 header{
     border-bottom:solid 2px rgb(rgb(208, 63, 221));
+    padding: 20px;
+    font-size: 32px;
+    color: blueviolet;
+    background: blue;
+
 }
